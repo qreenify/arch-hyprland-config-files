@@ -1,0 +1,11 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 15,
+  "spacing": 0,
+  "modules-center": ["clock"],
+  "modules-right": ["tray"],
+},
+
+#"cpu","memory","pulseaudio","bluetooth","tray","clock"
+#"modules-right": []

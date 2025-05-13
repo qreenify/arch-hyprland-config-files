@@ -1,0 +1,19 @@
+MenuBar=Disabled
+
+[General]
+EditableUrl=true
+Version=202
+ViewPropsTimestamp=2025,5,1,20,8,8.818999999999999
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,exe-thumbnailer,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,textthumbnail,gdk-pixbuf-thumbnailer
+
+[ViewPropertiesDialog]
+4 screens: Window-Maximized=true
